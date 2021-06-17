@@ -8,7 +8,7 @@
 * I am always looking for projects to expand my skills
 * I would love any feedback / guidance that can be offered on my projects.
 
-### Speaking of projects, here are a few I am proud of...
+#### Speaking of projects, here are a few I am proud of...
 * [Next Groove](https://github.com/jackcurtin/next-groove-frontend)
 * [New Age Tic-Tac-Toe](https://github.com/jackcurtin/tic_tac_toe)
 * [Mock Wayfarer](https://github.com/jackcurtin/wayfarer)
