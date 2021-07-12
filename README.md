@@ -10,7 +10,7 @@
 
 #### Speaking of projects, here are a few I am proud of...
 * [Next Groove](https://github.com/jackcurtin/next-groove-frontend)
+* [Bookkeeper](https://github.com/jackcurtin/bookkeeper-react-frontend)
 * [New Age Tic-Tac-Toe](https://github.com/jackcurtin/tic_tac_toe)
-* [Mock Wayfarer](https://github.com/jackcurtin/wayfarer)
 
 ##### If you'd like any additional information / would like to get in touch, please check out my [website](https://jack-curtin-portfolio.herokuapp.com/).
