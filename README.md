@@ -3,8 +3,8 @@
 #### A few things about me...
 
 * I am a full stack engineer
-  * Specialized with Angular and Springboot MVC
-  * Currently learning React
+  * Experienced with Angular, React (Native & Next.js) and Java Springboot
+  * Currently learning Kotlin and Android Studio
 * I am always looking for projects to expand my skills
 * I would love any feedback / guidance that can be offered on my projects.
 
